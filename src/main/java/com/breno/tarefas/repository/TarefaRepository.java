@@ -1,6 +1,6 @@
-package com.seunome.tarefas.repository;
+package com.breno.tarefas.repository;
 
-import com.seunome.tarefas.model.Tarefa;
+import com.breno.tarefas.model.Tarefa;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
