@@ -1,4 +1,4 @@
-package com.BrenoBaranoski.tarefas;
+package com.breno.tarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
